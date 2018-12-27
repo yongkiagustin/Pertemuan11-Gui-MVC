@@ -10,6 +10,9 @@ import edu.yongki.latihanmvc.model.PelangganModel;
 /**
  *
  * @author Young
+ * Nama : yongki Agustin
+ * NIM : 10117903
+ * Kelas : IF6K
  */
 public interface PelangganListener {
     public void onChange(PelangganModel pelanggan);

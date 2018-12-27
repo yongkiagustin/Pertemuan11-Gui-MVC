@@ -12,6 +12,9 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author Young
+ * Nama : yongki Agustin
+ * NIM : 10117903
+ * Kelas : IF6K
  */
 public class PelangganController {
 

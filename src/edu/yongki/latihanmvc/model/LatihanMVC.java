@@ -10,6 +10,10 @@ import edu.yongki.latihanmvc.view.PelangganView;
 /**
  *
  * @author Young
+ * 
+ * Nama : yongki Agustin
+ * NIM : 10117903
+ * Kelas : IF6K
  */
 public class LatihanMVC {
 
